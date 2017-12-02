@@ -13,7 +13,7 @@ code that operates primarily on files.
 ## Hallo Welt
 Here is the "Hallo Welt" script (because Hello World is too cliché):
 ```bash
-#!/bin/bash'
+#!/bin/bash
 
 echo Hallo Welt
 ```
