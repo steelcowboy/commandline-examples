@@ -1,0 +1,10 @@
+This is the first file
+I'd say it's a pretty good file
+It's very similar to the second file
+And in fact, I used the cp command when making this
+However, it has some important differences
+For example, look at this line
+It's the same in both files
+This one isn't
+It's breif
+You can see why diff is useful
